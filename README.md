@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PROF-OLALINK
+- 👋 Hi, I’m @PROF-OLALINK, a full stack developer
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m interested in frontend
 - 💞️ I’m looking to collaborate on any Laravel Project
 - 📫 http://agbenigaambali.olalinktech.com/portfolio
 
